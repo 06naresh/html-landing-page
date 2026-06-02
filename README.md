@@ -9,4 +9,4 @@ Each file represents a different landing page design, built without external CSS
 
 ## 🎯 Purpose
 The goal of this repository is to practice and demonstrate web page structuring using pure HTML.  
-It serves as a portfolio of landing page designs and a foundation for future projects that may include CSS and JavaScript enhancements.
+It serves as a portfolio of landing page designs and a foundation for future projects that may include CSS and JavaScript enhancements
